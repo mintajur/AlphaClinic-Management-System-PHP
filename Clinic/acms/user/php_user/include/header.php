@@ -17,6 +17,7 @@
 							<i class="ti-view-grid"></i>
 						</a>
 					</div>
+					
 					<!-- end: NAVBAR HEADER -->
 					<!-- start: NAVBAR COLLAPSE -->
 					<div class="navbar-collapse collapse">

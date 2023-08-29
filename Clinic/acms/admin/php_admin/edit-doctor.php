@@ -23,6 +23,8 @@ $msg="Doctor Details updated Successfully";
 }
 }
 ?>
+
+
 <!DOCTYPE html>
 <html lang="en">
 	<head>

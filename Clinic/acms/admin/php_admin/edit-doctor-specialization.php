@@ -14,6 +14,8 @@ $_SESSION['msg']="Doctor Specialization updated successfully !!";
 } 
 
 ?>
+
+
 <!DOCTYPE html>
 <html lang="en">
 	<head>

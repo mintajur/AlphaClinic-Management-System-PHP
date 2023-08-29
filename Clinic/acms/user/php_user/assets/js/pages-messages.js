@@ -17,6 +17,7 @@ var Messages = function() {"use strict";
 			messageHeightHandler();
 		});
 	};
+	
 	return {
 		//main function to initiate template pages
 		init: function() {

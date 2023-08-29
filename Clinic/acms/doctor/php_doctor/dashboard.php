@@ -7,6 +7,7 @@ if(strlen($_SESSION['id']==0)) {
   } else{
 
 ?>
+
 <!DOCTYPE html>
 <html lang="en">
 	<head>

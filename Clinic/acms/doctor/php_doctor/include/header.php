@@ -68,6 +68,7 @@ while($row=mysqli_fetch_array($query))
 						<!-- end: MENU TOGGLER FOR MOBILE DEVICES -->
 					</div>
 				
+	
 					
 					<!-- end: NAVBAR COLLAPSE -->
 				</header>

@@ -3,6 +3,7 @@
 					<div class="pull-left">
 			<span class="text-bold text-uppercase"> Alpha Clinic</span>
 					</div>
+					
 					<div class="pull-right">
 						<span class="go-top"><i class="ti-angle-up"></i></span>
 					</div>

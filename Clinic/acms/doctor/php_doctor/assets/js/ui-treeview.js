@@ -65,6 +65,7 @@ var UITreeview = function() {
 				}
 			}
 		});
+		
 		// Drag & drop
 		$("#tree_3").jstree({
 			"core" : {

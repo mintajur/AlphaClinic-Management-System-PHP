@@ -11,6 +11,7 @@ var UINestable = function () {
             output.text('JSON browser support required for this demo.');
         }
     };
+    
     var runNestable = function () {
         // activate Nestable for list 1
         $('#nestable').nestable({

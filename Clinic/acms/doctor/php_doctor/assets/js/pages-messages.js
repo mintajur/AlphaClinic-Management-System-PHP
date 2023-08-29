@@ -11,6 +11,7 @@ var Messages = function() {"use strict";
 		});
 
 	};
+	
 	// Window Resize Function
 	var resizeHandler = function(func, threshold, execAsap) {
 		$(window).resize(function() {

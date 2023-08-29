@@ -13,6 +13,7 @@
 							<input type="checkbox" class="js-switch" id="fixed-header" />
 						</span>
 					</div>
+					
 					<!-- end: FIXED HEADER -->
 					<!-- start: FIXED SIDEBAR -->
 					<div class="setting-box clearfix">

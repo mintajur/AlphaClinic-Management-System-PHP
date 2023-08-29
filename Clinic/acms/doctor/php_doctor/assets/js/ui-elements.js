@@ -52,6 +52,7 @@ var UIElements = function() {
 			}
 		});
 	};
+	
 	var ratingHandler = function() {
 
 		$('.rating, .rating-tooltip').each(function() {

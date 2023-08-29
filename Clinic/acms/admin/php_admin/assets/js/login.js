@@ -3,6 +3,7 @@ var Login = function() {
 	
 	
 	
+	
 	var runSetDefaultValidation = function() {
 		$.validator.setDefaults({
 			errorElement : "span", // contain the error msg in a small tag

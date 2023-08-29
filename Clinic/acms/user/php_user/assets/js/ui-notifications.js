@@ -14,6 +14,7 @@ var UINotifications = function() {"use strict";
 
 			return msgs[i];
 		};
+		
 		$('#showtoast').on("click", function() {
 			var shortCutFunction = $("#toastTypeGroup input:radio:checked").val();
 			var msg = $('#message').val();

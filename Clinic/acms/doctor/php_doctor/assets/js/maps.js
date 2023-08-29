@@ -67,6 +67,7 @@ var Maps = function () {
                 }
             });
         });
+        
         //Interacting
         var map5;
         // Update position

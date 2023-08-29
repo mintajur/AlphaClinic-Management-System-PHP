@@ -14,6 +14,7 @@ if(!empty($_POST["specilizationid"]))
 }
 
 
+
 if(!empty($_POST["doctor"])) 
 {
 

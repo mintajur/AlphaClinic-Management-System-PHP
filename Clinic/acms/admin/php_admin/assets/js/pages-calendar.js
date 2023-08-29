@@ -11,6 +11,7 @@ var Calendar = function() {"use strict";
 		var m = date.getMonth();
 		var y = date.getFullYear();
 
+		
 		demoCalendar = [{
 			title: 'Networking',
 			start: new Date(y, m, d, 20, 0),

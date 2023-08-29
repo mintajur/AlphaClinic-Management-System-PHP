@@ -55,6 +55,7 @@ echo "<script>window.location.href ='index.php'</script>";
                             <li><a href="#contact_us">Contact Us</a></li>
                             <li><a href="#logins">Logins</a></li>  
                         </ul>
+                        
                     </div>
                     <div class="col-sm-2 d-none d-lg-block appoint">
                         <a class="btn btn-success" href="acms/user/php_user/user-login.php">Book an Appointment</a>
@@ -65,54 +66,56 @@ echo "<script>window.location.href ='index.php'</script>";
         </div>
     </header>
     
+    
+
      <!-- ################# Slider Starts Here#######################--->
 
-    <div class="slider-detail">
+     <div class="slider-detail">
 
-        <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
-            <ol class="carousel-indicators">
-                <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
-                <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
-            </ol>
-   
+<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+    <ol class="carousel-indicators">
+        <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+        <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+    </ol>
 
-            <div class="carousel-inner">
-                <div class="carousel-item ">
-                    <img class="d-block w-100" src="assets/images/slider/slider_2.jpg" alt="Second slide">
-                    <div class="carousel-cover"></div>
-                    <div class="carousel-caption vdg-cur d-none d-md-block">
-                        <h5 class="animated bounceInDown">Alpha Clinic</h5>
+
+    <div class="carousel-inner">
+        <div class="carousel-item ">
+            <img class="d-block w-100" src="assets/images/slider/image1.jpg" alt="Second slide">
+            <div class="carousel-cover"></div>
+            <div class="carousel-caption vdg-cur d-none d-md-block">
+                <h5 class="animated bounceInDown">Alpha Clinic</h5>
+    
+                 
             
-                         
-                    
-                    </div>
-                </div>
-                
-                <div class="carousel-item active">
-                    <img class="d-block w-100" src="assets/images/slider/slider_3.jpg" alt="Third slide">
-                      <div class="carousel-cover"></div>
-                    <div class="carousel-caption vdg-cur d-none d-md-block">
-                        <h5 class="animated bounceInDown">Alpha Clinic</h5>
-            
-                         
-                    
-                    </div>
-              
-                </div>
-                
             </div>
-            <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
-                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                <span class="sr-only">Previous</span>
-            </a>
-            <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
-                <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                <span class="sr-only">Next</span>
-            </a>
         </div>
-
-
+        
+        <div class="carousel-item active">
+            <img class="d-block w-100" src="assets/images/slider/image.jpg" alt="Third slide">
+              <div class="carousel-cover"></div>
+            <div class="carousel-caption vdg-cur d-none d-md-block">
+                <h5 class="animated bounceInDown">Alpha Clinic</h5>
+    
+                 
+            
+            </div>
+      
+        </div>
+        
     </div>
+    <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="sr-only">Previous</span>
+    </a>
+    <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="sr-only">Next</span>
+    </a>
+</div>
+
+
+</div>
     
   <!--  ************************* Logins ************************** -->
     
@@ -128,7 +131,7 @@ echo "<script>window.location.href ='index.php'</script>";
                     <div class="col-sm-4 blog-smk">
                         <div class="blog-single">
 
-                                <img src="assets/images/patient.jpg" alt="">
+                                <img src="assets/images/login1.jpg" alt="patientloginbuttonpic">
 
                             <div class="blog-single-det">
                                 <h6>Patient Login</h6>
@@ -141,7 +144,7 @@ echo "<script>window.location.href ='index.php'</script>";
                     <div class="col-sm-4 blog-smk">
                         <div class="blog-single">
 
-                                <img src="assets/images/doctor.jpg" alt="">
+                                <img src="assets/images/login2.jpg" alt="doctorloginbuttonpic">
 
                             <div class="blog-single-det">
                                 <h6>Doctors login</h6>
@@ -155,7 +158,7 @@ echo "<script>window.location.href ='index.php'</script>";
                     <div class="col-sm-4 blog-smk">
                         <div class="blog-single">
 
-                                <img src="assets/images/admin.jpg" alt="">
+                                <img src="assets/images/login3.jpg" alt="adminloginbuttonpic">
 
                             <div class="blog-single-det">
                                 <h6>Admin Login</h6>
@@ -184,7 +187,7 @@ echo "<script>window.location.href ='index.php'</script>";
 
 
 
-    <!-- ################# Our Departments Starts Here#######################--->
+    <!-- ################# Our Services Starts Here#######################--->
 
 
     <section id="services" class="key-features department">

@@ -97,6 +97,7 @@ var FormElements = function() {"use strict";
 		});
 		
 	};
+	
 	var timePickerHandler = function() {
 		$('#timepicker-default').timepicker();		
 	};

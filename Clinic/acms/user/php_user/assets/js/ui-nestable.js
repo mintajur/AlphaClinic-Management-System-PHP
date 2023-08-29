@@ -35,6 +35,7 @@ var UINestable = function () {
         });
         $('#nestable3').nestable();
     };
+    
     return {
         //main function to initiate template pages
         init: function () {

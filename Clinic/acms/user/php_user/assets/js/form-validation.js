@@ -101,6 +101,7 @@ var FormValidator = function () {
             }
         });
     };
+    
     // function to initiate Validation Sample 2
     var runValidator2 = function () {
         var form2 = $('#form2');

@@ -5,6 +5,7 @@ var FormValidator = function () {
 			$(this).parent().closest(".has-error").removeClass("has-error").addClass("has-success").find(".help-block").hide().end().find('.symbol').addClass('ok');
 		});
     }; 
+    
     // function to initiate Validation Sample 1
     var runValidator1 = function () {
         var form1 = $('#form');

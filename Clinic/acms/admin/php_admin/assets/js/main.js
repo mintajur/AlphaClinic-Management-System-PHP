@@ -8,6 +8,7 @@ var Main = function() {
 		tablet : 768,
 		mobile : 480
 	};
+	
 	$(".current-year").text((new Date()).getFullYear());
 	//sidebar
 	var sidebarHandler = function() {

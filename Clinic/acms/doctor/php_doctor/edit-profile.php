@@ -21,6 +21,7 @@ echo "<script>alert('Doctor Details updated Successfully');</script>";
 }
 }
 ?>
+
 <!DOCTYPE html>
 <html lang="en">
 	<head>

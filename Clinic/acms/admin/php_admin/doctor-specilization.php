@@ -20,6 +20,8 @@ mysqli_query($con,"delete from doctorSpecilization where id = '$sid'");
 $_SESSION['msg']="data deleted !!";
 }
 ?>
+
+
 <!DOCTYPE html>
 <html lang="en">
 	<head>

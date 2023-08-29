@@ -33,6 +33,7 @@ var UIButtons = function() {
 		// l.isLoading();
 		// l.setProgress( 0-1 );
 	};
+	
 	return {
 		init: function() {
 			laddaHandler();

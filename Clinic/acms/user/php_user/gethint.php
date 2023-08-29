@@ -34,6 +34,7 @@ $a[] = "Ellen Shaw";
 $a[] = "Wenche Miller";
 $a[] = "Vicky Stuart";
 
+
 // get the q parameter from URL
 $q = $_REQUEST["q"];
 

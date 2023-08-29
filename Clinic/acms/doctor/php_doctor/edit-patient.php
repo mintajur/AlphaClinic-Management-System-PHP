@@ -25,6 +25,7 @@ header('location:manage-patient.php');
 }
 }
 ?>
+
 <!DOCTYPE html>
 <html lang="en">
 	<head>

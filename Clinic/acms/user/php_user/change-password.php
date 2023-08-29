@@ -21,6 +21,7 @@ $_SESSION['msg1']="Old Password not match !!";
 }
 }
 ?>
+
 <!DOCTYPE html>
 <html lang="en">
 	<head>

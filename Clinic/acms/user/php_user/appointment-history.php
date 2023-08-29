@@ -11,6 +11,7 @@ if(isset($_GET['cancel']))
                   $_SESSION['msg']="Your appointment canceled !!";
 		  }
 ?>
+
 <!DOCTYPE html>
 <html lang="en">
 	<head>

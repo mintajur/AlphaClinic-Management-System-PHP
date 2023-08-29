@@ -12,6 +12,7 @@ mysqli_query($con,"update appointment set doctorStatus='0' where id ='".$_GET['i
                   $_SESSION['msg']="Appointment canceled !!";
 		  }
 ?>
+
 <!DOCTYPE html>
 <html lang="en">
 	<head>

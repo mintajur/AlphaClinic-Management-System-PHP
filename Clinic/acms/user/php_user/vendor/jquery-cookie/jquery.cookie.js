@@ -73,6 +73,7 @@
 			].join(''));
 		}
 
+		
 		// Read
 
 		var result = key ? undefined : {};

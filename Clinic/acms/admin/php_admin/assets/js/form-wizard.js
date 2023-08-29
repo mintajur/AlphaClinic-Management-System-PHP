@@ -15,6 +15,7 @@ var FormWizard = function () {
         initValidator();
     };
     
+    
      
     var initValidator = function () {
         

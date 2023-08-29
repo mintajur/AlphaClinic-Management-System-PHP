@@ -24,7 +24,6 @@ $_SESSION['errmsg']="Invalid username or password";
 }
 ?>
 
-
 <!DOCTYPE html>
 <html lang="en">
 	<head>
@@ -60,7 +59,7 @@ $_SESSION['errmsg']="Invalid username or password";
 								Sign in to your account
 							</legend>
 							<p>
-								Please enter your name and password to log in.<br />
+								Please enter your username and password to log in.<br />
 								<span style="color:red;"><?php echo htmlentities($_SESSION['errmsg']); ?><?php echo htmlentities($_SESSION['errmsg']="");?></span>
 							</p>
 							<div class="form-group">
@@ -85,7 +84,7 @@ $_SESSION['errmsg']="Invalid username or password";
 					</form>
 
 					<div class="copyright">
-						<span class="text-bold text-uppercase">Alpha Clinic</span>
+						&copy; <span class="current-year"></span><span class="text-bold text-uppercase"> Alpha Clinic</span>. <span>All rights reserved</span>
 					</div>
 			
 				</div>

@@ -50,6 +50,7 @@ header("location:user-login.php");
 		<link rel="stylesheet" href="assets/css/styles.css">
 		<link rel="stylesheet" href="assets/css/plugins.css">
 		<link rel="stylesheet" href="assets/css/themes/theme-1.css" id="skin_color" />
+
 	</head>
 	<body class="login">
 		<div class="row">
@@ -65,12 +66,12 @@ header("location:user-login.php");
 								Sign in to your account
 							</legend>
 							<p>
-								Please enter your name and password to log in.<br />
+								Please enter your email id and password to log in.<br />
 								<span style="color:red;"><?php echo $_SESSION['errmsg']; ?><?php echo $_SESSION['errmsg']="";?></span>
 							</p>
 							<div class="form-group">
 								<span class="input-icon">
-									<input type="text" class="form-control" name="username" placeholder="Username">
+									<input type="text" class="form-control" name="username" placeholder="User Email">
 									<i class="fa fa-user"></i> </span>
 							</div>
 							<div class="form-group form-actions">

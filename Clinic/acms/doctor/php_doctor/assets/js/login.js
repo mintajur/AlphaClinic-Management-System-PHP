@@ -35,6 +35,7 @@ var Login = function() {
 			}
 		});
 	};
+	
 	var runLoginValidator = function() {
 		var form = $('.form-login');
 		var errorHandler = $('.errorHandler', form);

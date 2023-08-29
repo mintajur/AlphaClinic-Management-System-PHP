@@ -23,6 +23,7 @@ var Index = function() {
 				data: [28, 48, 40, 19, 86, 27, 90, 102, 123, 145, 60, 161]
 			}]
 		};
+		
 
 		var options = {
 

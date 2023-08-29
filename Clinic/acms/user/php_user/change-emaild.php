@@ -17,6 +17,7 @@ $msg="Your email updated Successfully";
 
 }
 ?>
+
 <!DOCTYPE html>
 <html lang="en">
 	<head>

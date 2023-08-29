@@ -17,7 +17,6 @@ header('location:reset-password.php');
 echo "<script>alert('Invalid details. Please try with valid details');</script>";
 echo "<script>window.location.href ='forgot-password.php'</script>";
 
-
 }
 
 }
@@ -44,7 +43,7 @@ echo "<script>window.location.href ='forgot-password.php'</script>";
 		<div class="row">
 			<div class="main-login col-xs-10 col-xs-offset-1 col-sm-8 col-sm-offset-2 col-md-4 col-md-offset-4">
 				<div class="logo margin-top-30">
-				<a href="../index.php"><h2> HMS | Patient Password Recovery</h2></a>
+				<a href="../index.php"><h2> Alpha Clinic | Patient Password Reset</h2></a>
 				</div>
 
 				<div class="box-login">
@@ -54,20 +53,20 @@ echo "<script>window.location.href ='forgot-password.php'</script>";
 								Patient Password Recovery
 							</legend>
 							<p>
-								Please enter your Email and password to recover your password.<br />
+								Please enter your Email and Password to recover your password.<br />
 					
 							</p>
 
 							<div class="form-group form-actions">
 								<span class="input-icon">
-									<input type="text" class="form-control" name="fullname" placeholder="Registred Full Name">
+									<input type="text" class="form-control" name="fullname" placeholder="Your Password">
 									<i class="fa fa-lock"></i>
 									 </span>
 							</div>
 
 							<div class="form-group">
 								<span class="input-icon">
-									<input type="email" class="form-control" name="email" placeholder="Registred Email">
+									<input type="email" class="form-control" name="email" placeholder="Registered Email">
 									<i class="fa fa-user"></i> </span>
 							</div>
 
@@ -87,7 +86,7 @@ echo "<script>window.location.href ='forgot-password.php'</script>";
 					</form>
 
 					<div class="copyright">
-						&copy; <span class="text-bold text-uppercase">  Hospital Management System</span>
+						&copy; <span class="current-year"></span><span class="text-bold text-uppercase"> Alpha Clinic</span>. <span>All rights reserved</span>
 					</div>
 			
 				</div>

@@ -31,6 +31,7 @@ $a[] = "ellen@gmail.com";
 $a[] = "wenche@gmail.com";
 $a[] = "vicky@gmail.com";
 
+
 // get the q parameter from URL
 $q = $_REQUEST["q"];
 

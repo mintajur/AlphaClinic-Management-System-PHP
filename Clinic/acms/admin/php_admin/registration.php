@@ -16,7 +16,6 @@ if($query)
 }
 ?>
 
-
 <!DOCTYPE html>
 <html lang="en">
 

@@ -21,6 +21,7 @@ $msg="Your Profile updated Successfully";
 
 }
 ?>
+
 <!DOCTYPE html>
 <html lang="en">
 	<head>

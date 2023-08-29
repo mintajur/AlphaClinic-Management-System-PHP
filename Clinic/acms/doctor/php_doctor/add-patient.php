@@ -25,6 +25,7 @@ header('location:add-patient.php');
 }
 }
 ?>
+
 <!DOCTYPE html>
 <html lang="en">
 	<head>

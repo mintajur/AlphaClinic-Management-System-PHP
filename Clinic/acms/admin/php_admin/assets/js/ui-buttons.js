@@ -22,6 +22,7 @@ var UIButtons = function() {
 				}, 200);
 			}
 		});
+		
 
 		// You can control loading explicitly using the JavaScript API
 		// as outlined below:

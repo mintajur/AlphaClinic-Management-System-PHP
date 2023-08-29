@@ -23,7 +23,7 @@ var UIButtons = function() {
 			}
 		});
 
-		// You can control loading explicitly using the JavaScript API
+		// Can control loading explicitly using the JavaScript API
 		// as outlined below:
 
 		// var l = Ladda.create( document.querySelector( 'button' ) );

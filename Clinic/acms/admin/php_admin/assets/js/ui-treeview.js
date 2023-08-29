@@ -20,6 +20,7 @@ var UITreeview = function() {
 			"plugins" : ["types"]
 		});
 
+		
 		//Checkbox
 		$('#tree_2').jstree({
 			'plugins' : ["wholerow", "checkbox", "types"],

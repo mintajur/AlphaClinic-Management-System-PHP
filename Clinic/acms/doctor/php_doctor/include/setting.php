@@ -13,6 +13,7 @@
 							<input type="checkbox" class="js-switch" id="fixed-header" />
 						</span>
 					</div>
+
 					<!-- end: FIXED HEADER -->
 					<!-- start: FIXED SIDEBAR -->
 					<div class="setting-box clearfix">
@@ -21,6 +22,7 @@
 							<input type="checkbox" class="js-switch" id="fixed-sidebar" />
 						</span>
 					</div>
+
 					<!-- end: FIXED SIDEBAR -->
 					<!-- start: CLOSED SIDEBAR -->
 					<div class="setting-box clearfix">
@@ -29,6 +31,7 @@
 							<input type="checkbox" class="js-switch" id="closed-sidebar" />
 						</span>
 					</div>
+
 					<!-- end: CLOSED SIDEBAR -->
 					<!-- start: FIXED FOOTER -->
 					<div class="setting-box clearfix">
@@ -37,6 +40,7 @@
 							<input type="checkbox" class="js-switch" id="fixed-footer" />
 						</span>
 					</div>
+					
 					<!-- end: FIXED FOOTER -->
 					<!-- start: THEME SWITCHER -->
 					<div class="colors-row setting-box">

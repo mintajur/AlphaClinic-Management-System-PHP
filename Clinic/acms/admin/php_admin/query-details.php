@@ -19,6 +19,7 @@ echo "<script>window.location.href ='read-query.php'</script>";
 }
 		  }
 ?>
+
 <!DOCTYPE html>
 <html lang="en">
 	<head>

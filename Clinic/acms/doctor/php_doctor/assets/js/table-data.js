@@ -37,6 +37,7 @@ var TableData = function() {
 			oTable.fnSetColumnVis(iCol, ( bVis ? false : true));
 		});
 	};
+	
 	var runDataTable_example2 = function() {
 		var newRow = false;
 		var actualEditingRow = null;

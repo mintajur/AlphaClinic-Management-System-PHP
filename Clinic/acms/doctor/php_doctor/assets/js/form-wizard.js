@@ -66,6 +66,7 @@ var FormWizard = function () {
             }
         });
     };
+    
     var displayConfirm = function () {
         $('.display-value', form).each(function () {
             var input = $('[name="' + $(this).attr("data-display") + '"]', form);

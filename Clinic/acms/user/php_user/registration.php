@@ -48,7 +48,6 @@ return true;
 }
 
 
-
 //AJAX (Getting hints from files gethint, gethint1, grthint2, gethint3)
 
 function showHint(str) {

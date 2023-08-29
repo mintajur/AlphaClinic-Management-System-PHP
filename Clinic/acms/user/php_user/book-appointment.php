@@ -23,6 +23,7 @@ $query=mysqli_query($con,"insert into appointment(doctorSpecialization,doctorId,
 
 }
 ?>
+
 <!DOCTYPE html>
 <html lang="en">
 	<head>

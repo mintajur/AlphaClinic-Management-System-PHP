@@ -13,6 +13,7 @@ if(isset($_GET['del']))
                   $_SESSION['msg']="data deleted !!";
 		  }
 ?>
+
 <!DOCTYPE html>
 <html lang="en">
 	<head>

@@ -4,6 +4,7 @@ var TextEditor = function() {"use strict";
 		CKEDITOR.disableAutoInline = true;
 		$('textarea.ckeditor').ckeditor();
 	};
+	
 
 	return {
 		//main function to initiate template pages

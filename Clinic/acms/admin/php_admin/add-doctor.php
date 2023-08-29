@@ -23,6 +23,7 @@ echo "<script>window.location.href ='manage-doctors.php'</script>";
 }
 }
 ?>
+
 <!DOCTYPE html>
 <html lang="en">
 	<head>

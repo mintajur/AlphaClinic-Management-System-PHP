@@ -28,6 +28,7 @@ var UIElements = function() {
 			});
 		});
 	};
+	
 	var paginationHandler = function() {
 		$("#pagination-demo").twbsPagination({
 			totalPages: 35,

@@ -35,6 +35,7 @@ $a[] = "Oman";
 $a[] = "Papua newgini";
 
 
+
 // get the q parameter from URL
 $q = $_REQUEST["q"];
 
